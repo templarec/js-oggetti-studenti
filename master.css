@@ -1,0 +1,16 @@
+body {
+    font-family: 'Arial Black';
+    font-size: 20px;
+}
+#lista {
+    display: none;
+}
+.output {
+    display: none;
+    border-collapse: collapse;
+    text-align: center;
+}
+ .output tr:nth-child(odd) {
+    background-color: #b6f6f1;
+
+}
